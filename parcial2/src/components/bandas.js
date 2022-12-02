@@ -32,6 +32,7 @@ function Bandas (){
   };
    return(
     <div>
+    <div style={{ backgroundColor: '#A6C8CD'}}><h1>Bandas Musicales</h1></div>
       <table className="table">
         <thead className="thead-dark">
           <tr>

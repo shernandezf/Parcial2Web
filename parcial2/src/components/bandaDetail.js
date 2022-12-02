@@ -47,10 +47,13 @@ function BandaDetail(){
        }
     return(
         <div>
-            <h1>Bandas Musicales</h1>
             {buscarBanda()}
+            <div style={{ width: "500px", display:"inline"}}>
             <Bandas></Bandas>
+            </div>
+            <div style={{display:"inline"}}>
             {carta()}
+            </div>
             
         </div>
     );
