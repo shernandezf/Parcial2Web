@@ -1,0 +1,9 @@
+{
+    "name": "Nombre",
+    "pais": "Pais",
+    "genero": "Genero",
+    "fundacion": "Fundacion",
+    "mensaje1": "La banda mas antigua es:",
+    "mensaje2": "y fue fundada hace",
+    "mensaje3": " años"
+}

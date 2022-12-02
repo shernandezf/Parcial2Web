@@ -1,0 +1,9 @@
+{
+    "name": "Name",
+    "pais": "Country",
+    "genero": "Genre",
+    "fundacion": "Fundation",
+    "mensaje1": "the oldest band is: ",
+    "mensaje2": "and was founded ",
+    "mensaje3": " years ago"
+}
